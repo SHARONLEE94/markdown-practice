@@ -65,7 +65,7 @@ _**이텔릭 + 두껍게**_
 # 인라인 코드 강조
 CSS에서 `background` 혹은 `background-img` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
 
-# 블록 고드 강조
+# 블록 드 강조
 ```html
 <a href="https://www.naver.com/" title = "네이버로 이동!">NAVER</a>
 ```
